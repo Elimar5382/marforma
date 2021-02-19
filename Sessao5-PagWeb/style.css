@@ -1,0 +1,51 @@
+body {
+   text-align: center;
+}
+
+h1{
+   font-family: Broadway;
+   color: #eb4034;
+   font-size: 50px;
+}
+
+#segundop{
+  font-weight: bold;
+  background-color:#eb4034;
+}
+
+table{
+	margin: auto;
+}
+
+td{
+	border: 1px black solid;
+	margin:10px;
+}
+
+#legenda{
+   font-size: 8px;
+
+}
+
+figure{
+  border: thin grey solid;
+  width: 20%;
+}
+
+ul{
+   background-color: pink;
+   
+}
+
+li{
+display: inline;
+margin-left:5%;
+margin-right:5%;
+}
+
+figcaption{
+
+text-align: center;
+}
+
+
